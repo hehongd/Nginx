@@ -34,6 +34,7 @@ http://nginx.org/en/download.html
 地址：https://www.runoob.com/w3cnote/nginx-setup-intro.html
 
  nginx 配置文件 nginx.conf 内容详解如下：
+ <script>
  ########### 每个指令必须有分号结束。#################
 #user administrator administrators;  #配置用户或者组，默认为nobody nobody。
 #worker_processes 2;  #允许生成的进程数，默认为1
@@ -73,3 +74,4 @@ http {
         } 
     }
 }
+</script>
