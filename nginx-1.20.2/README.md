@@ -1,4 +1,4 @@
-1.NGINX 官网地址：http://nginx.org/
+1.NGINX 官网地址：http://nginx.org/ <br/>
 http://nginx.org/en/download.html
 
 2.下载.zip
