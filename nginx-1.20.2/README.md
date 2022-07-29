@@ -1,7 +1,7 @@
-<!-- NGINX 官网地址 -->
+1.NGINX 官网地址：http://nginx.org/
 http://nginx.org/en/download.html
 
-<!-- 下载.zip -->
+2.下载.zip
 下载下的压缩文件解压为文件夹
 
 # 前端项目打包dist文件
